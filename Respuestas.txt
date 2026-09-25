@@ -1,0 +1,19 @@
+Repositorio local vs. remoto: El local está en el disco de tu computadora; el remoto está guardado en la nube (ej. GitHub) para compartirlo con otros.
+
+commit vs. push: commit guarda una foto de tus cambios en tu computadora; push los sube a la nube (GitHub).
+
+.gitignore: Es una lista donde indicas qué archivos o carpetas Git debe ignorar y nunca subir.
+
+Por qué no se sube .venv: Pesa demasiado, contiene archivos específicos de tu sistema operativo y cada desarrollador debe crear el suyo propio.
+
+requirements.txt: Lista las librerías necesarias del proyecto para que otros las instalen fácil con un solo comando.
+
+fork vs. clone: fork copia un proyecto ajeno a tu cuenta de GitHub; clone descarga un proyecto de GitHub a tu computadora.
+
+Por qué crear una rama: Para probar o agregar cosas nuevas sin arriesgarte a romper la versión estable del proyecto.
+
+Función de un Pull Request: Pedirle al dueño del proyecto que revise y combine tus cambios en la rama principal.
+
+Qué se revisa antes de un merge: Que el código funcione bien, no tenga errores y no cause conflictos al unirse.
+
+Por qué hacer git pull tras un merge: Para bajar a tu computadora los cambios recién aprobados en GitHub y estar al día.
