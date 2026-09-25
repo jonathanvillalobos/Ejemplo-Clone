@@ -33,3 +33,6 @@ Abre un Pull Request en GitHub para solicitar la revisión e integración de tu 
 Autor:
 
 Jonathan Rafa Villalobos Ramirez 
+
+## Colaboración
+Este proyecto acepta contribuciones externas mediante el flujo de trabajo de *Fork* y *Pull Requests*. Para más información sobre las mejoras propuestas y las guías de contribución, consulta el archivo `docs/recomendaciones.md`.
