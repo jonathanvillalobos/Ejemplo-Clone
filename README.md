@@ -1,3 +1,9 @@
+## Estado
+
+* **Estado actual:** En desarrollo / Práctica activa 🟡
+* **Fase:** Configuración inicial de documentación y flujo colaborativo.
+
+
 Objetivo:
 
 Servir como entorno práctico para dominar el flujo de trabajo en Git y GitHub, abarcando el trabajo con ramas, clones, forks, conflictos y Pull Requests tanto para propietarios como colaboradores.
